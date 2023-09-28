@@ -1,1 +1,1 @@
-# AR7-weather-app
+# weather-app-starter
